@@ -21,7 +21,6 @@ backend/target/
 **/test_snapshots/
 *.log
 .idea/
-.vscode/
 
 # TypeScript build cache
 tsconfig.tsbuildinfo
@@ -70,4 +69,4 @@ jspm_packages/
 
 # Yarn Integrity file
 .yarn-integrity
-.env
+config.bat
